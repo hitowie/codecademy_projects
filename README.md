@@ -2,11 +2,9 @@
 
 ### Description
 
-This repository contains the code for some of the projects I completed in the Codecademy courses I took.
+This repository contains the code for some of the projects I completed in the [Codecademy](https://www.codecademy.com/) courses I took.
 
-Codecademy website: [https://www.codecademy.com/](https://www.codecademy.com/)
-
-My Codecademy profile: [https://www.codecademy.com/profiles/hitowie](https://www.codecademy.com/profiles/hitowie)
+###### *You can find my Codecademy profile [here](https://www.codecademy.com/profiles/hitowie).*
 
 ---
 
